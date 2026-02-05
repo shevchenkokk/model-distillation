@@ -216,7 +216,7 @@
 
 **Аппаратная платформа:**
 
-5. **NVIDIA Tesla T4 Spec Sheet**: [NVIDIA Official Datasheet](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-t4/t4-tensor-core-datasheet-951643.pdf) — данные по пропускной способности памяти (320 GB/s).
+5. **NVIDIA Tesla T4 Spec Sheet**: [NVIDIA Official Datasheet](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-t4/t4-tensor-core-datasheet-951643.pdf) — данные по пропускной способности памяти (300 ГБ/с).
 
 
 **Методы оптимизации и ускорения:**
